@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Danial</h1>
-<h3 align="center">A passionate full-stack developer from Pakistan, currently in China</h3>
+<h3 align="center">A passionate full-stack developer from Pakistan, living in China</h3>
 
 - 🔭 I’m currently working on [RealEnvision](https://github.com/its-Danial/real-envision-frontend)
 
 - 🌱 I’m currently learning **Swift for IOS development**
 
-- 👨‍💻 All of my projects are available at [https://www.malikdanial.xyz/](https://www.malikdanial.xyz/)
+- 👨‍💻 All of my projects are available at [malikdanial.xyz](https://www.malikdanial.xyz/)
 
 - 💬 Ask me about **React.js and Next.js**
 
