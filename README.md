@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danial</h1>
 <h3 align="center">A passionate full-stack developer from Pakistan, living in China</h3>
 
-- 🔭 I’m currently working on [Evalufy](https://www.evalufy.com/){:target="_blank"} at [Bayt.com](https://www.bayt.com/){:target="_blank"}
+- 🔭 I’m currently working on <a href="https://www.evalufy.com" target="_blank">Evalufy</a> at <a href="https://www.bayt.com" target="_blank">Bayt.com</a>
 
 - 🌱 I’m currently learning **Swift for IOS development**
 
