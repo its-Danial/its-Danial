@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Danial</h1>
 <h3 align="center">A passionate full-stack developer from Pakistan, studied at Northeastern University - China</h3>
 
-- 🔭 I’m currently working on <a href="https://www.evalufy.com" target="_blank" rel="noreferrer noopener">Evalufy</a> at <a href="https://www.bayt.com" target="_blank" rel="noreferrer noopener">Bayt.com</a>
+- 🔭 I’m currently working as a senior full-stack engineer at <a href="https://akwconsultants.com/" target="_blank" rel="noreferrer noopener">AKW Consultants</a>
 
 - 🌱 I’m currently learning **Swift for IOS development**
 
-- 👨‍💻 All of my projects are available at [malikdanial.xyz](https://www.malikdanial.xyz/)
-
-- 💬 Ask me about **Vue.js, React.js and Next.js**
+- 👨‍💻 Some of my projects are available at [malikdanial.xyz](https://www.malikdanial.xyz/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
